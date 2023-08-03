@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-speach-recognition/build/static/css/main.0386eab5.css",
+    "main.js": "/random-speach-recognition/build/static/js/main.70d0546c.js",
+    "index.html": "/random-speach-recognition/build/index.html",
+    "main.0386eab5.css.map": "/random-speach-recognition/build/static/css/main.0386eab5.css.map",
+    "main.70d0546c.js.map": "/random-speach-recognition/build/static/js/main.70d0546c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0386eab5.css",
+    "static/js/main.70d0546c.js"
+  ]
+}
